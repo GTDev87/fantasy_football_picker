@@ -1,0 +1,338 @@
+name,position,points,
+"Aaron Rodgers, GB QB",QB,342,1
+"Andrew Luck, Ind QB",QB,336,2
+"Russell Wilson, Sea QB",QB,312,3
+"Peyton Manning, Den QB",QB,307,4
+"Ben Roethlisberger, Pit QB",QB,295,5
+"Drew Brees, NO QB",QB,290,6
+"DeMarco Murray, Phi RB",RB,282,7
+"Le'Veon Bell, Pit RB  SSPD",RB,272,8
+"Matt Ryan, Atl QB",QB,268,9
+"Tom Brady, NE QB",QB,267,10
+"Ryan Tannehill, Mia QB",QB,266,11
+"Eli Manning, NYG QB",QB,263,12
+"Tony Romo, Dal QB",QB,258,13
+"Philip Rivers, SD QB  P",QB,254,14
+"Marshawn Lynch, Sea RB",RB,253,15
+"Antonio Brown, Pit WR",WR,251,16
+"Joe Flacco, Bal QB",QB,249,17
+"Jay Cutler, Chi QB",QB,244,18
+"Matthew Stafford, Det QB",QB,237,19
+"Cam Newton, Car QB",QB,237,20
+"Colin Kaepernick, SF QB",QB,234,21
+"Matt Forte, Chi RB",RB,231,22
+"Demaryius Thomas, Den WR",WR,223,24
+"Dez Bryant, Dal WR  P",WR,221,26
+"Eddie Lacy, GB RB",RB,216,27
+"Andy Dalton, Cin QB  P",QB,210,28
+"Alex Smith, KC QB",QB,205,29
+"Jamaal Charles, KC RB",RB,197,30
+"Odell Beckham Jr., NYG WR",WR,197,31
+"Emmanuel Sanders, Den WR  P",WR,192,32
+"Randall Cobb, GB WR  Q",WR,191,33
+"Justin Forsett, Bal RB",RB,189,34
+"Julio Jones, Atl WR",WR,183,35
+"Jeremy Maclin, KC WR",WR,182,36
+"Derek Carr, Oak QB",QB,178,37
+"Rob Gronkowski, NE TE",TE,178,38
+"T.Y. Hilton, Ind WR  Q",WR,172,39
+"Kyle Orton, Buf QB",QB,171,40
+"Ryan Fitzpatrick, NYJ QB",QB,171,41
+"Lamar Miller, Mia RB",RB,171,42
+"Jeremy Hill, Cin RB",RB,171,43
+Bills D/ST D/ST,D,170,44
+"Teddy Bridgewater, Min QB",QB,169,45
+"Mike Evans, TB WR  Q",WR,168,46
+"Stephen Gostkowski, NE K",K,168,47
+"C.J. Anderson, Den RB",RB,167,48
+"Alshon Jeffery, Chi WR  Q",WR,167,49
+"Alfred Morris, Wsh RB",RB,159,50
+"LeSean McCoy, Buf RB  Q",RB,158,51
+"Cody Parkey, Phi K  P",K,158,52
+"Blake Bortles, Jac QB",QB,155,53
+"Joique Bell, Det RB  Q",RB,154,54
+"Mark Ingram, NO RB",RB,154,55
+Eagles D/ST D/ST,D,153,56
+"Adam Vinatieri, Ind K",K,152,57
+"Golden Tate, Det WR",WR,151,58
+Seahawks D/ST D/ST,D,150,59
+"Brian Hoyer, Hou QB",QB,149,60
+"Calvin Johnson, Det WR",WR,149,61
+"Antonio Gates, SD TE  SSPD",TE,148,62
+"Dan Carpenter, Buf K",K,148,63
+Texans D/ST D/ST,D,147,64
+"DeAndre Hopkins, Hou WR",WR,146,65
+"Matt Bryant, Atl K",K,146,66
+"Dan Bailey, Dal K",K,145,67
+"DeSean Jackson, Wsh WR  P",WR,144,68
+"Mason Crosby, GB K",K,141,71
+"Steven Hauschka, Sea K",K,141,72
+"Randy Bullock, Hou K",K,140,73
+"Geno Smith*, NYJ QB  O",QB,139,74
+"Matt Asiata, Min RB",RB,139,75
+"Mike Wallace, Min WR",WR,137,76
+"Torrey Smith, SF WR  P",WR,137,77
+"Jimmy Graham, Sea TE",TE,137,78
+Lions D/ST D/ST,D,136,79
+"Justin Tucker, Bal K",K,136,80
+"Frank Gore, Ind RB",RB,135,81
+"Steve Smith Sr., Bal WR",WR,133,82
+"Mark Sanchez, Phi QB",QB,132,83
+"Giovani Bernard, Cin RB",RB,132,84
+"A.J. Green, Cin WR",WR,132,85
+"Caleb Sturgis, Mia K",K,132,86
+"Greg Olsen, Car TE",TE,131,87
+Patriots D/ST D/ST,D,131,88
+Ravens D/ST D/ST,D,131,89
+"Anquan Boldin, SF WR",WR,130,90
+"Brandon LaFell*, NE WR  O",WR,130,91
+"Roddy White, Atl WR  Q",WR,127,92
+"Julian Edelman, NE WR  P",WR,127,93
+"Jordan Matthews, Phi WR",WR,127,94
+"Nick Folk, NYJ K",K,127,95
+"Josh Brown, NYG K  Q",K,126,96
+"Graham Gano, Car K",K,126,97
+"Chris Ivory, NYJ RB",RB,124,98
+"Sammy Watkins, Buf WR",WR,124,99
+"Chandler Catanzaro, Ari K",K,124,100
+"Martellus Bennett, Chi TE",TE,123,101
+Packers D/ST D/ST,D,123,102
+Rams D/ST D/ST,D,123,103
+"Andre Ellington, Ari RB",RB,122,104
+49ers D/ST D/ST,D,122,105
+"Eric Decker, NYJ WR",WR,120,106
+Broncos D/ST D/ST,D,120,107
+"Mike Nugent, Cin K",K,120,108
+"Phil Dawson, SF K",K,119,109
+"Josh McCown, Cle QB",QB,118,110
+"Coby Fleener, Ind TE",TE,118,111
+"Cairo Santos, KC K",K,117,112
+"Malcom Floyd, SD WR",WR,116,113
+"Julius Thomas*, Jac TE  O",TE,116,114
+"Andre Williams, NYG RB",RB,115,115
+"Blair Walsh, Min K",K,115,116
+Vikings D/ST D/ST,D,114,117
+Cardinals D/ST D/ST,D,114,118
+"Nick Foles, StL QB",QB,113,119
+"Brandon Marshall, NYJ WR",WR,113,120
+"Marques Colston, NO WR",WR,113,121
+"Eddie Royal, Chi WR  P",WR,113,122
+"Mohamed Sanu, Cin WR",WR,113,123
+Dolphins D/ST D/ST,D,113,124
+"Nick Novak, SD K",K,112,125
+"Greg Zuerlein, StL K",K,112,126
+"Steven Jackson, Atl RB",RB,111,127
+"Tre Mason, StL RB  Q",RB,111,128
+"Michael Floyd, Ari WR  Q",WR,111,129
+"Fred Jackson, FA RB",RB,110,130
+"Jonathan Stewart, Car RB",RB,110,131
+"Ahmad Bradshaw, FA RB  SSPD",RB,108,132
+"Travis Kelce, KC TE  P",TE,108,133
+"Darren Sproles, Phi RB",RB,107,134
+"Kai Forbath, Wsh K  P",K,107,135
+Chiefs D/ST D/ST,D,106,136
+"Delanie Walker, Ten TE",TE,105,137
+Steelers D/ST D/ST,D,105,138
+"Shayne Graham, FA K",K,105,139
+"Austin Davis, StL QB",QB,104,140
+"Vincent Jackson, TB WR",WR,104,141
+"Kendall Wright, Ten WR",WR,104,142
+"Kenny Stills, Mia WR",WR,104,143
+Browns D/ST D/ST,D,104,144
+Colts D/ST D/ST,D,104,145
+"Isaiah Crowell, Cle RB",RB,103,146
+"Greg Jennings, Mia WR  P",WR,103,147
+"Rueben Randle, NYG WR",WR,103,148
+"Terrance Williams, Dal WR",WR,103,149
+"Patrick Murray, TB K",K,103,150
+Panthers D/ST D/ST,D,102,151
+"Carson Palmer, Ari QB",QB,101,152
+"Shane Vereen, NYG RB",RB,101,153
+"Rashad Jennings, NYG RB",RB,100,154
+"Martavis Bryant, Pit WR  SSPD",WR,100,155
+"Branden Oliver, SD RB",RB,98,156
+"Andre Johnson, Ind WR",WR,98,157
+Cowboys D/ST D/ST,D,97,158
+"Sebastian Janikowski, Oak K",K,97,159
+"Allen Hurns, Jac WR  P",WR,96,160
+"Knile Davis, KC RB",RB,95,161
+"Terrance West, Cle RB",RB,94,162
+"James Jones, NYG WR",WR,94,163
+"Doug Baldwin, Sea WR",WR,94,164
+"John Brown, Ari WR",WR,94,165
+"Billy Cundiff, FA K  P",K,94,166
+"Jason Witten, Dal TE",TE,93,167
+"Robert Woods, Buf WR  P",WR,92,168
+"Keenan Allen, SD WR",WR,91,169
+"Matt Prater, Det K",K,91,170
+"Jarvis Landry, Mia WR",WR,90,171
+"Josh Scobee, Pit K",K,90,172
+"Ryan Succop, Ten K",K,90,173
+"Drew Stanton, Ari QB",QB,87,174
+"Michael Crabtree, Oak WR",WR,87,175
+"Andrew Hawkins, Cle WR",WR,87,176
+"Heath Miller, Pit TE",TE,87,177
+"Kirk Cousins, Wsh QB",QB,86,178
+"Kenny Britt, StL WR",WR,86,179
+"Andre Holmes, Oak WR  D",WR,86,180
+"Shaun Hill, Min QB",QB,85,181
+"Pierre Garcon, Wsh WR",WR,85,182
+Jaguars D/ST D/ST,D,85,183
+"Mike Glennon, TB QB",QB,84,184
+"Larry Fitzgerald, Ari WR",WR,84,185
+"Larry Donnell, NYG TE",TE,84,186
+"Denard Robinson, Jac RB",RB,83,187
+Chargers D/ST D/ST,D,83,188
+"Charlie Whitehurst, Ten QB",QB,82,189
+"Chris Johnson, Ari RB",RB,82,190
+"Reggie Wayne, NE WR",WR,82,191
+"Dwayne Allen, Ind TE",TE,82,192
+"Robert Griffin, Wsh QB  Q",QB,81,193
+"Trent Richardson, Oak RB",RB,81,194
+"Brandin Cooks, NO WR",WR,80,195
+Giants D/ST D/ST,D,80,196
+"Alfred Blue, Hou RB",RB,79,197
+Bengals D/ST D/ST,D,79,198
+"Zach Ertz, Phi TE  Q",TE,78,199
+"LeGarrette Blount, NE RB  SSPD",RB,77,200
+"Roy Helu, Oak RB",RB,75,201
+"Jared Cook, StL TE",TE,75,202
+Buccaneers D/ST D/ST,D,75,203
+Bears D/ST D/ST,D,74,204
+"Ronnie Hillman, Den RB",RB,73,205
+"Charles Clay, Buf TE",TE,73,206
+Jets D/ST D/ST,D,72,207
+"Darren McFadden, Dal RB",RB,71,208
+"Bobby Rainey, TB RB",RB,71,209
+"Nate Washington, Hou WR",WR,71,210
+"Jarius Wright, Min WR",WR,71,211
+"Markus Wheaton, Pit WR",WR,71,212
+"Owen Daniels, Den TE",TE,70,213
+"Devin Hester, Atl WR",WR,69,214
+"Dwayne Bowe, Cle WR  P",WR,69,215
+"Percy Harvin, Buf WR  P",WR,69,216
+"Jermaine Gresham, Ari TE  P",TE,69,217
+"Mychal Rivera, Oak TE",TE,69,218
+"Pierre Thomas, NO RB",RB,68,219
+"Jonas Gray, NE RB",RB,68,220
+"Benjamin Cunningham, StL RB",RB,67,221
+"Brandon McManus, Den K",K,66,222
+"Allen Robinson, Jac WR",WR,65,223
+"Bishop Sankey, Ten RB",RB,64,224
+"Miles Austin, Phi WR",WR,64,225
+"Harry Douglas, Ten WR",WR,64,226
+"Riley Cooper, Phi WR  P",WR,64,227
+"Taylor Gabriel, Cle WR",WR,64,228
+"Connor Barth, TB K",K,64,229
+"Scott Chandler, NE TE",TE,62,230
+"Ben Tate, Pit RB",RB,61,231
+"Latavius Murray, Oak RB",RB,61,232
+"Justin Hunter, Ten WR",WR,61,233
+"Antone Smith, Atl RB  P",RB,60,234
+"Jerick McKinnon, Min RB",RB,60,235
+Falcons D/ST D/ST,D,60,236
+"Jerricho Cotchery, Car WR  Q",WR,59,237
+"Hakeem Nicks, Ten WR  P",WR,59,238
+"Timothy Wright, Det TE",TE,59,239
+"Doug Martin, TB RB",RB,58,240
+"Cecil Shorts III, Hou WR",WR,58,241
+"Davante Adams, GB WR",WR,58,242
+"Reggie Bush, SF RB",RB,57,243
+"Lorenzo Taliaferro, Bal RB  D",RB,57,244
+"Chris Hogan, Buf WR  Q",WR,57,245
+"Cole Beasley, Dal WR",WR,57,246
+"Charles Johnson, Min WR",WR,57,247
+"Stevie Johnson, SD WR",WR,56,248
+"Donte Moncrief, Ind WR",WR,56,249
+"Theo Riddick, Det RB",RB,55,250
+"Robbie Gould, Chi K",K,55,251
+"Ryan Mathews, Phi RB",RB,54,252
+"Jermaine Kearse, Sea WR",WR,54,253
+"Tavon Austin, StL WR",WR,54,254
+"Wes Welker, Den WR",WR,53,255
+"Brian Hartline, Cle WR  P",WR,53,256
+"Brian Quick, StL WR  P",WR,53,257
+"Boobie Dixon, Buf RB  P",RB,52,258
+"Carlos Hyde, SF RB",RB,52,259
+"Stedman Bailey, StL WR",WR,52,260
+Titans D/ST D/ST,D,52,261
+"Cordarrelle Patterson, Min WR",WR,51,262
+"Jordan Cameron, Mia TE",TE,51,263
+"James Starks, GB RB",RB,50,264
+"Lance Kendricks, StL TE",TE,50,265
+"Luke Willson, Sea TE",TE,50,266
+"Robert Turbin, Sea RB  Q",RB,49,267
+"Khiry Robinson, NO RB  P",RB,49,268
+"Corey Brown, Car WR",WR,49,269
+"Toby Gerhart, Jac RB  P",RB,48,270
+"Jeremy Kerley, NYJ WR  Q",WR,48,271
+Redskins D/ST D/ST,D,48,272
+"Daniel Herron, Ind RB  Q",RB,47,273
+"Stepfan Taylor, Ari RB",RB,47,274
+"Kamar Aiken, Bal WR",WR,47,275
+"Shonn Greene, Ten RB",RB,46,276
+"Louis Murphy, TB WR",WR,46,277
+"Andre Roberts, Wsh WR",WR,46,278
+"C.J. Spiller, NO RB  Q",RB,45,279
+"Chris Polk, Hou RB",RB,45,280
+"Travis Benjamin, Cle WR",WR,45,281
+"Niles Paul*, Wsh TE  IR",TE,45,282
+"Stevan Ridley*, NYJ RB  O",RB,44,283
+"Devonta Freeman, Atl RB  P",RB,44,284
+"Preston Parker, NYG WR",WR,44,285
+"Josh Hill, NO TE",TE,44,286
+"Marqise Lee, Jac WR  Q",WR,43,287
+"Andrew Quarless, GB TE",TE,43,288
+"Bernard Pierce, Jac RB",RB,42,289
+"Joseph Randle, Dal RB",RB,42,290
+"Brice Butler, Oak WR  Q",WR,42,291
+"Anthony Fasano, Ten TE",TE,42,292
+"Jordan Todman, Car RB",RB,41,293
+"Juwan Thompson, Den RB",RB,41,294
+"Jordan Reed, Wsh TE",TE,41,295
+"Jace Amaro*, NYJ TE  IR",TE,41,296
+"Jeff Cumberland, NYJ TE",TE,40,297
+"Zac Stacy, NYJ RB",RB,39,298
+Saints D/ST D/ST,D,39,299
+"Jacquizz Rodgers, Chi RB",RB,38,300
+"Victor Cruz, NYG WR  Q",WR,37,301
+"Daniel Fells, NYG TE",TE,37,302
+"Damaris Johnson, Hou WR",WR,36,303
+"John Carlson, Ari TE",TE,36,304
+Raiders D/ST D/ST,D,36,305
+"Darrel Young, Wsh RB",RB,35,306
+"Charles Sims, TB RB",RB,35,307
+"Jason Avant, KC WR  P",WR,35,308
+"Dion Sims, Mia TE",TE,35,309
+"Donald Brown, SD RB",RB,33,310
+"Daniel Thomas, Chi RB  P",RB,33,311
+"Marcel Reece, Oak RB",RB,32,312
+"Brandon Lloyd, SF WR",WR,32,313
+"Brent Celek, Phi TE",TE,32,314
+"Clay Harbor, Jac TE  P",TE,32,315
+"Kyle Rudolph, Min TE",TE,31,316
+"Gavin Escobar, Dal TE  P",TE,31,317
+"Richard Rodgers, GB TE",TE,31,318
+"De'Anthony Thomas, KC RB, WR  P",RB,30,319
+"Damien Williams, Mia RB",RB,30,320
+"Paul Richardson*, Sea WR  O",WR,30,321
+"De'Anthony Thomas, KC RB, WR  P",WR,30,322
+"Vernon Davis, SF TE",TE,30,323
+"Marcedes Lewis, Jac TE",TE,30,324
+"Dexter McCluster, Ten WR, RB",RB,28,325
+"Chase Ford, Min TE  P",TE,28,326
+"Levine Toilolo, Atl TE",TE,28,327
+"Austin Seferian-Jenkins, TB TE",TE,28,328
+"Leon Washington, Ten RB",RB,27,329
+"Fozzy Whittaker, Car RB",RB,27,330
+"Cooper Helfet, Sea TE  P",TE,27,331
+"Travaris Cadet, NE RB  P",RB,26,332
+"Jim Dray, Cle TE",TE,26,333
+"Eric Ebron, Det TE  P",TE,26,334
+"Rhett Ellison, Min TE",TE,24,335
+"Garrett Graham, Hou TE",TE,23,336
+"Benjamin Watson, NO TE",TE,20,337
+"Jay Feely, FA K",K,14,338
+"Garrett Hartley*, Pit K  IR",K,12,339
+"Nate Freese, FA K",K,11,340
+"Alex Henery, FA K",K,6,341
