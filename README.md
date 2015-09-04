@@ -1,4 +1,6 @@
 # fantasy_football_picker
-Tests different algorithms for picking a fantasy football team.  Code can be run from main.py and settings can be changed in config.py.
+Tests different algorithms for picking a fantasy football team.  Written in Python27.
 
 Simulates snake style drafts.  Number of teams, roster type, and available players can be modified.
+
+Code can be run from tests.py
